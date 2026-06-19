@@ -1,6 +1,7 @@
 # Arena Cleanup
 
 一款使用 Unreal Engine 5.7 制作的第一人称合作竞技场射击游戏。
+![image](https://github.com/GaniHung/UE5_ArenaCleanup/blob/main/image.png)
 
 ## 游戏内容
 
